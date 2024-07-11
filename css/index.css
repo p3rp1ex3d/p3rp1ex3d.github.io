@@ -873,12 +873,12 @@ padding-bottom: 40px;
     text-align: center;
 }
     .portfolio-image img{
-        height: 400px;
+        height: 100px;
         width: 100%;
         position: relative;
     }
     .portfolio-image{
-        height: 400px;
+        height: 200px;
         width: 40%;
     }
 .portfolio-image img::before{
